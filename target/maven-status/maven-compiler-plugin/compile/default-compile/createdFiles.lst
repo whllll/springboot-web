@@ -1,0 +1,8 @@
+com/wxy/demo/entity/User.class
+com/wxy/demo/Application.class
+com/wxy/demo/mapper/UserMapper.class
+com/wxy/demo/controller/UserController.class
+com/wxy/demo/core/CommonResponse.class
+com/wxy/demo/controller/HelloController.class
+com/wxy/demo/service/UserService.class
+com/wxy/demo/config/MapperConfiguration.class
